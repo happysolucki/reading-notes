@@ -1,4 +1,4 @@
-# Coder's Computer :computer:
+# Coder's Computer 🖥️
 
 Here are some tips for setting up a coding-focused computer:
 
