@@ -1,4 +1,4 @@
-<h1 align="center">✨ Markdown Notes ✨</h1>
+# Markdown Notes ✨
 
 Here are some essential examples of markdown syntax:
 
