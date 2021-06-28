@@ -1,5 +1,3 @@
-# happysolucki.github.io
-
 ### Growth Mindset Notes
 
 A **growth mindset** rejects the claim that abilities are innate and largely fixed. Abilities can be accrued through effort and consistency
