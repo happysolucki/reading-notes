@@ -12,4 +12,10 @@ A **growth mindset** rejects the claim that abilities are innate and largely fix
 
 Hello, my name is Brandon Keefer. I've never had a real job but I have helped my uncle with some electrician work for his business. Definitely looking forward to accruing some new skills through this course.
 
+### Table of Contents
+
+  1. Growth Mindset
+  2. [Markdown](markdown.md)
+  3. [Coder's Computer](coders-computer.md)
+
 [Github](https://github.com/happysolucki)
