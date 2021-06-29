@@ -1,4 +1,4 @@
-# Markdown Notes ✨
+# Markdown Notes 📘
 
 Here are some essential examples of markdown syntax:
 
