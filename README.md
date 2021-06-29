@@ -9,4 +9,4 @@ Hello, my name is Brandon Keefer. I've never had a real job but I have helped my
   3. [Coder's Computer](notes/coders-computer.md)
   4. [Git Stuff](notes/git-stuff.md)
 
-[Github](https://github.com/happysolucki)
+#### [Github](https://github.com/happysolucki)
