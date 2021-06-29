@@ -7,5 +7,6 @@ Hello, my name is Brandon Keefer. I've never had a real job but I have helped my
   1. [Growth Mindset](notes/growth-mindset.md)
   2. [Markdown](notes/markdown.md)
   3. [Coder's Computer](notes/coders-computer.md)
+  4. [Git Stuff](notes/git-stuff.md)
 
 [Github](https://github.com/happysolucki)
