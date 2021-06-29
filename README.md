@@ -8,5 +8,6 @@ Hello, my name is Brandon Keefer. I've never had a real job but I have helped my
   2. [Markdown](notes/markdown.md)
   3. [Coder's Computer](notes/coders-computer.md)
   4. [Git Stuff](notes/git-stuff.md)
+  5. [Wireframing](notes/wireframing.md)
 
 #### [Github](https://github.com/happysolucki)
