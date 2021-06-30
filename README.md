@@ -10,6 +10,6 @@ Hello, my name is Brandon Keefer. I've never had a real job but I have helped my
   4. [Git Stuff](notes/git-stuff.md)
   5. [Wireframing](notes/wireframing.md)
   6. [CSS](notes/css.md)
-  7. [Javascript](notes/javascript.js)
+  7. [Javascript](notes/javascript.md)
 
 #### [Github](https://github.com/happysolucki)
