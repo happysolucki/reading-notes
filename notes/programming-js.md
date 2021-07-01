@@ -67,3 +67,46 @@ You can use the `new` operator to create an instance of a user-defined object ty
 let objectName = new objectType([param1, param2, ..., paramN]);
 
 ```
+
+### Functions
+
+A function in JavaScript is similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output. To use a function, you must define it somewhere in the scope from which you wish to call it.
+
+Say you have a chunk of code but you want to use it again somewhere else in your code. Instead of just writing it out again, you can just wrap that piece of code in a function. Then whenever you need to recall that piece of code, you can just call the function instead. You could even pass that function into a different function.
+
+#### Defining functions
+
+Functions can be defined two different ways either through declaration or expression;
+
+##### Function declarations
+
+This is what a function declaration looks like:
+
+```JavaScript
+
+function square(number) {
+  return number * number;
+}
+
+```
+
+##### Function expression
+
+This is what a function expression looks like:
+
+```JavaScript
+
+const square = function (number) {
+  return number * number;
+}
+
+```
+The example above is an anonymous function. You can provide a name to the function expression. Providing a name allows the function to refer to itself, and also makes it easier to identify the function in a debugger's stack traces:
+
+```JavaScript
+
+const square = function sqaureNum(number) {
+  return number * number;
+}
+
+```
