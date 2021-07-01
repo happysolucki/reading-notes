@@ -12,5 +12,6 @@ Hello, my name is Brandon Keefer. I've never had a real job but I have helped my
   6. [CSS](notes/css.md)
   7. [Javascript](notes/javascript.md)
   8. [Programming with Javascript](notes/programming-js.md)
+  9. [Loops](notes/loops.md)
 
 #### [Github](https://github.com/happysolucki)
