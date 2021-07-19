@@ -15,3 +15,7 @@ This designates an element that contains the contact details for the author of t
 #### &lt;ins&gt; & &lt;del&gt;
 
 The `<ins>` element can be used to show content that can be inserted into a document. The `<del>` element does the exact opposite; it can show text that has been deleted from it. Typically, the `<ins>` content is rendered with an underline while the `<del>` content is rendered with a strikethrough.
+
+### CSS Basics
+
+
