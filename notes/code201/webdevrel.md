@@ -16,6 +16,7 @@ This designates an element that contains the contact details for the author of t
 
 The `<ins>` element can be used to show content that can be inserted into a document. The `<del>` element does the exact opposite; it can show text that has been deleted from it. Typically, the `<ins>` content is rendered with an underline while the `<del>` content is rendered with a strikethrough.
 
-### CSS Basics
+### External CSS & Browser Quirks
 
+There are a multitude of advantages that come with placing your css rules in separate style sheets. First, all of your webpages can share the same style sheet. Instead of having to copy & paste your css rules into every html file, you can just link to it. It's just all-around easier to apply the same css rules to multiple html files if your css is contained in an external style sheet. Using external style sheets also makes maintaining your code more manageable. It elemenates any possible confusion you could have if you used internal css.
 
